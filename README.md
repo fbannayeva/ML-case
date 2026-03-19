@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This project delves into the **World Happiness Report 2019** dataset to identify key factors influencing happiness scores across countries and to build predictive machine learning models. Although the full dataset spans from 2015 to 2019, this analysis focuses exclusively on the 2019 data, which comprises 156 clean rows with no missing values. Initial Exploratory Data Analysis (EDA) has been performed to understand the dataset's structure and relationships.
+In this notebook, I perform an in-depth analysis of the **World Happiness Report 2019** dataset. Originally, there are 5 datasets available from 2015 to 2019, but for this case study, we focus exclusively on the 2019 data. This dataset consists of 156 clean rows (with no missing values), and preliminary Exploratory Data Analysis (EDA) has been conducted to understand its structure. The primary goal is to understand the factors contributing to happiness scores across different countries and to build predictive models.
 
 ## Table of Contents
 
